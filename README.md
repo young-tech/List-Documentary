@@ -10,6 +10,7 @@
 CC-BY-NC-SA 2.0 (Creative Commons License Attribution-NonCommercial-ShareAlike): 비상업적으로 공유하신다면 별도의 허가는 필요없고, 출처만 밝히시면 됩니다. 문서를 수정하거나 변형하여 공유해도 됩니다만, 반드시 같은 CC-BY-NC-SA 저작권을 적용하시는 조건입니다.
 
 ### 리스트 목록
+
 |분야|이름|
 |---||---|
 |경제||2020 한국경제 생존의 조건|
