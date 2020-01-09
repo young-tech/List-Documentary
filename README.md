@@ -11,8 +11,8 @@ CC-BY-NC-SA 2.0 (Creative Commons License Attribution-NonCommercial-ShareAlike):
 
 ### 리스트 목록
 
-| 분야 | 이름 |
-| ------ | ------|
+|분야|이름|
+|:------:|------|
 |경제|KBS 2020 한국경제 생존의 조건|
 ||KBS 걸작 다큐멘터리 돈의 힘|
 ||KBS 신년경제기획-커맨딩 하이츠|
