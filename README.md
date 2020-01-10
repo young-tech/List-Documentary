@@ -1,5 +1,6 @@
 # 분야별 추천 다큐멘터리 리스트
 **이 문서는 https://github.com/innovationacademy-kr/community-meetups 을 참고하여 작성했음을 밝힙니다.**
+
 **이 리스트에는 누구나 참여하실 수있습니다.**
 
 다큐멘터리를 공유하거나 리스트에 오류가 있다면 **직접 추가/수정하여 PR(Pull-Request)를 날려주시기 바랍니다.** 어떻게 하시는지 모르신다면 [이슈](https://github.com/young-tech/List-Documentary/issues)에 등록해주세요.
